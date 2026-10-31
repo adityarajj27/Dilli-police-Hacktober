@@ -5,7 +5,7 @@ Member 2 - Aditya Raj
 Member 3 - Dhananjai Rathi
 Member 4 - Daksh Chaudhary
 
-problem statement 2 
+problem statement 6 
 
 claude - prompt,
 anitgravity - backend,
